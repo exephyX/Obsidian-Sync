@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inhyeong/World Building/Main Story/Test.md",
+                "file": "Inhyeong/Character/Information/Growth/Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Stats"
             }
           }
         ]
@@ -181,12 +181,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99a6d471068935de",
+  "active": "8c7a9e7dd5141b21",
   "lastOpenFiles": [
-    "Inhyeong/World Building/Main Story/Test.md",
-    "Welcome.md",
-    "Inhyeong/World Building/Main Story",
-    "Inhyeong/World Building",
-    "Inhyeong"
+    "Inhyeong/Character/Information/Growth/Stats.xlsx",
+    "Inhyeong/Character/Information/Growth/75D5DF20",
+    "Inhyeong/Character/Information/Growth/~$Stats.xlsx",
+    "Inhyeong/Character/States/18A2DF20",
+    "Inhyeong/Character/States/Stats.xlsx",
+    "Inhyeong/Character/States/0D975F20",
+    "Inhyeong/Character/States/~$Stats.xlsx",
+    "Inhyeong/Character/Information/Growth/Traits.md",
+    "Inhyeong/Character/Information/Growth/Stats.md",
+    "Inhyeong/Character/Information/Growth/Leveling and Experience.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Fire/(t3) Hellfire/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t2) Plague/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t2) Plague",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t2) Dryad/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t2) Dryad",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t1) Poison/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t1) Poison",
+    "Inhyeong/World Building/Elements and Magic/Element1 9 2/T3/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Element1 9 2/T2/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Element1 9 2/T1/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Element1 9 2/T3",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Spiritual/T3/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Spiritual/T2/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Spiritual/T1/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Dark/(t2) Abyss/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Dark/T3/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Dark/(t1) Dark/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Black Magic/(t3) Chaos/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Black Magic/(t2) Shadow/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Black Magic/(t1) Black Magic/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Light/T3/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Light/(t2) Holy/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Combinations/Light/(t1) Light/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t3) SpiritGrove/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t3) Pestilence/Status and Effects.md",
+    "Inhyeong/World Building/Elements and Magic/Fundamentals/Nature (Includes Poison)/(t1) Nature/Status and Effects.md"
   ]
 }
